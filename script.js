@@ -6,4 +6,6 @@ fetch(url)
     console.log(dato);
 })
 .catch((error)=> {console.error('Error:',error)});
+
+
  
